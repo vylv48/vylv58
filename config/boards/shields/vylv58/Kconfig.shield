@@ -1,0 +1,3 @@
+config SHIELD_VYLV58
+    def_bool $(shields_list_contains,vylv58)
+    

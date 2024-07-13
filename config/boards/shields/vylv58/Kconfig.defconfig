@@ -1,0 +1,6 @@
+if SHIELD_VYLV58
+
+config ZMK_KEYBOARD_NAME
+    default "vylv58"
+
+endif

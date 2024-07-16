@@ -124,7 +124,7 @@
             bindings = <
                 &trans &none                   &none                &none                 &none             &none                              &none     &none             &none            &none            &none                &trans
                 &trans &kp UNDER               &kp MINUS            &kp PLUS              &kp EQUAL         &kp COLON                          &kp GRAVE &kp C_PREVIOUS    &kp C_PLAY_PAUSE &kp C_NEXT       &kp DELETE           &trans
-                &trans &kp LEFT_BRACE          &kp LEFT_PARENTHESIS &kp RIGHT_PARENTHESIS &kp RIGHT_BRACE   &kp PIPE      &trans &trans &trans &kp ESC   &kp LEFT          &kp UP           &kp DOWN         &kp RIGHT            &trans
+                &trans &kp LEFT_BRACE          &kp LEFT_PARENTHESIS &kp RIGHT_PARENTHESIS &kp RIGHT_BRACE   &kp PIPE      &trans &trans &trans    &kp LEFT          &kp DOWN           &kp UP         &kp RIGHT     &trans        &trans
                 &trans &cm LSHIFT LEFT_BRACKET &kp APOSTROPHE       &kp DOUBLE_QUOTES     &kp RIGHT_BRACKET &kp SEMICOLON &trans &trans &trans &kp TILDE &kp C_VOLUME_DOWN &kp C_MUTE       &kp C_VOLUME_UP  &cm RSHIFT BACKSLASH &trans
                                                                     &trans                &trans            &trans        &trans &trans &trans &trans    &trans            &trans
             >;
